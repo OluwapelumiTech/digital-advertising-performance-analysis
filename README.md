@@ -1,5 +1,5 @@
 # Digital Advertising Performance Analysis
-## Scalepunk | January – February 2026
+## | January – February 2026
 
 ## Project Overview
 An end-to-end data analysis of a digital advertising platform covering
