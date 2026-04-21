@@ -1,5 +1,4 @@
 ---DIGITAL ADVERTISING PERFORMANCE ANALYSIS
----Scalepunk | January - February 2026
 
 ---Tool:       DuckDB SQL (via VS Code DuckDB Extension)
 ---Dataset:    events.parquet (11.5 million rows)
